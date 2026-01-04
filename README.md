@@ -1,1 +1,2 @@
 # FUTURE_ML_02
+About The Project ExpenseTracker is a robust financial dashboard designed to help college students streamline their workflow by efficiently managing daily spending and budgets. Built using Python and Streamlit, it solves the common problem of losing track of small expenses by providing a clean, user-friendly interface that allows users to visualize spending habits in real-time. Whether you are a student or a freelancer, this tool simplifies the process of saving money, making it faster and more intuitive than using Excel sheets.
